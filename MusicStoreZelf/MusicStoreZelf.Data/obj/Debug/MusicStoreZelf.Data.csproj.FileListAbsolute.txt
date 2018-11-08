@@ -1,0 +1,6 @@
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\bin\Debug\MusicStoreZelf.Data.dll
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\bin\Debug\MusicStoreZelf.Data.pdb
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\obj\Debug\MusicStoreZelf.Data.csprojAssemblyReference.cache
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\obj\Debug\MusicStoreZelf.Data.csproj.CoreCompileInputs.cache
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\obj\Debug\MusicStoreZelf.Data.dll
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Data\obj\Debug\MusicStoreZelf.Data.pdb

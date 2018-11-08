@@ -1,0 +1,9 @@
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\obj\Debug\MusicStoreZelf.Business.csprojAssemblyReference.cache
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\obj\Debug\MusicStoreZelf.Business.csproj.CoreCompileInputs.cache
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\bin\Debug\MusicStoreZelf.Business.dll
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\bin\Debug\MusicStoreZelf.Business.pdb
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\bin\Debug\MusicStoreZelf.Data.dll
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\bin\Debug\MusicStoreZelf.Data.pdb
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\obj\Debug\MusicStoreZelf.Business.csproj.CopyComplete
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\obj\Debug\MusicStoreZelf.Business.dll
+C:\Users\11700813\Desktop\PXL\.NET advanced\oefeningen\week 7\MusicStoreZelf\MusicStoreZelf.Business\obj\Debug\MusicStoreZelf.Business.pdb
